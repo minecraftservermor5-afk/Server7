@@ -12778,3 +12778,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Aug2025 15:08:48.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [16Aug2025 15:13:48.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [16Aug2025 15:13:48.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[16Aug2025 15:16:49.887] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8616703625E7, 98.18767430962257, 254.5311427526176] -> [645.2528147343546, 100.17499999701977, 1.2290044625E7] returning empty list! this might break things
+[16Aug2025 15:18:48.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[16Aug2025 15:18:48.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[16Aug2025 15:23:48.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[16Aug2025 15:23:48.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
