@@ -734,3 +734,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Aug2025 18:14:11.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=70, z=-87} BlockPos{x=-108, y=70, z=-87}
 [16Aug2025 18:14:15.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=72, z=-88} BlockPos{x=-105, y=71, z=-88}
 [16Aug2025 18:14:15.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=72, z=-88} BlockPos{x=-105, y=71, z=-88}
+[16Aug2025 18:17:05.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-116, y=75, z=-89} BlockPos{x=-117, y=74, z=-89}
+[16Aug2025 18:17:10.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=74, z=-90} BlockPos{x=-125, y=73, z=-90}
+[16Aug2025 18:17:26.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=80, z=-81} BlockPos{x=-122, y=78, z=-83}
+[16Aug2025 18:19:44.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-129, y=78, z=-88} BlockPos{x=-133, y=72, z=-85}
+[16Aug2025 18:23:52.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=69, z=-95} BlockPos{x=-139, y=68, z=-95}
+[16Aug2025 18:25:31.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=80, z=-80} BlockPos{x=-122, y=78, z=-80}
