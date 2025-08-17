@@ -538,3 +538,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [17Aug2025 15:38:34.981] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8616703650000006E7, 66.95301416236217, -130.79912649840117] -> [-94.14856880903244, 100.30000001192093, 1.2290053650000006E7] returning empty list! this might break things
 [17Aug2025 16:07:19.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=65, z=-107} BlockPos{x=-17, y=64, z=-107}
 [17Aug2025 16:07:20.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=65, z=-107} BlockPos{x=-18, y=63, z=-107}
+[17Aug2025 16:22:09.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=65, z=-73} BlockPos{x=-48, y=64, z=-72}
+[17Aug2025 16:22:09.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=65, z=-73} BlockPos{x=-48, y=64, z=-72}
+[17Aug2025 16:22:09.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=65, z=-73} BlockPos{x=-48, y=64, z=-72}
+[17Aug2025 16:22:39.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=65, z=-82} BlockPos{x=-21, y=63, z=-80}
+[17Aug2025 16:22:39.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=65, z=-82} BlockPos{x=-21, y=63, z=-80}
+[17Aug2025 16:26:43.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=64, z=-89} BlockPos{x=1, y=63, z=-89}
+[17Aug2025 16:27:37.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=-78} BlockPos{x=2, y=62, z=-78}
+[17Aug2025 16:28:19.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=64, z=-89} BlockPos{x=14, y=62, z=-88}
+[17Aug2025 16:30:01.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=65, z=-72} BlockPos{x=-45, y=64, z=-72}
+[17Aug2025 16:30:01.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=65, z=-72} BlockPos{x=-45, y=64, z=-72}
+[17Aug2025 16:30:01.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=65, z=-72} BlockPos{x=-45, y=64, z=-72}
