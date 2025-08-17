@@ -579,3 +579,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [17Aug2025 19:36:48.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> yo me quedo jugando igual
 [17Aug2025 19:36:53.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> pero sin el ds
 [17Aug2025 19:36:55.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> ok
+[17Aug2025 19:38:21.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=65, z=-62} BlockPos{x=-26, y=65, z=-62}
+[17Aug2025 19:38:21.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=65, z=-62} BlockPos{x=-26, y=65, z=-62}
+[17Aug2025 19:38:21.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=65, z=-62} BlockPos{x=-26, y=65, z=-62}
+[17Aug2025 19:39:23.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[17Aug2025 19:39:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
+[17Aug2025 19:46:49.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Suit Up]
