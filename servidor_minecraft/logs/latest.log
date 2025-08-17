@@ -554,3 +554,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [17Aug2025 18:57:51.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.161.248.57:50731] logged in with entity id 50688 at (698.1602125479812, 40.0, 219.55454818050086)
 [17Aug2025 18:57:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
 [17Aug2025 19:07:06.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=70, z=-64} BlockPos{x=-139, y=69, z=-64}
+[17Aug2025 19:07:28.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=71, z=-74} BlockPos{x=-145, y=69, z=-74}
+[17Aug2025 19:12:08.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Timed out
+[17Aug2025 19:12:08.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[17Aug2025 19:12:08.233] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Aug2025 19:12:30.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.161.248.57:35193] logged in with entity id 90502 at (669.6999999880791, 94.0, 219.39102934727003)
+[17Aug2025 19:12:30.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[17Aug2025 19:12:36.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> q paso?
+[17Aug2025 19:13:00.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Timed out
+[17Aug2025 19:13:00.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[17Aug2025 19:13:50.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.161.248.57:59967] logged in with entity id 93994 at (669.6999999880791, 94.0, 219.39102934727003)
+[17Aug2025 19:13:50.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
