@@ -585,3 +585,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [17Aug2025 19:39:23.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
 [17Aug2025 19:39:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
 [17Aug2025 19:46:49.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Suit Up]
+[17Aug2025 20:54:17.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[17Aug2025 20:54:17.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
