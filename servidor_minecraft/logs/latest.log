@@ -494,3 +494,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Aug2025 22:21:47.401] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604402650000006E7, 67.0, -123.43441350385547] -> [-55.35093063861132, 83.3967811875554, 1.2290063650000006E7] returning empty list! this might break things
 [19Aug2025 22:21:52.448] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604402650000006E7, 67.0, -123.43810819834471] -> [-55.28802265226841, 75.27925381570121, 1.2290063650000006E7] returning empty list! this might break things
 [19Aug2025 22:21:57.451] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604402650000006E7, 66.00001133759619, -123.44418411701918] -> [-55.233286982402205, 67.80001128991248, 1.2290063650000006E7] returning empty list! this might break things
+[19Aug2025 22:34:24.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=87, z=-2} BlockPos{x=-121, y=86, z=-3}
+[19Aug2025 22:35:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> como se domestica el panda?
+[19Aug2025 22:36:05.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-164, y=69, z=-23} BlockPos{x=-163, y=67, z=-23}
+[19Aug2025 22:36:46.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=66, z=-21} BlockPos{x=-170, y=67, z=-21}
+[19Aug2025 22:36:46.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=67, z=-21} BlockPos{x=-170, y=66, z=-21}
+[19Aug2025 22:36:48.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=66, z=-22} BlockPos{x=-176, y=66, z=-22}
+[19Aug2025 22:37:24.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=82, z=0} BlockPos{x=-112, y=81, z=1}
+[19Aug2025 22:37:24.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=82, z=0} BlockPos{x=-112, y=81, z=1}
+[19Aug2025 22:37:24.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=82, z=0} BlockPos{x=-112, y=81, z=1}
+[19Aug2025 22:37:24.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=82, z=0} BlockPos{x=-112, y=81, z=1}
+[19Aug2025 22:37:24.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=82, z=0} BlockPos{x=-112, y=81, z=1}
+[19Aug2025 22:37:50.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=79, z=0} BlockPos{x=-109, y=79, z=1}
+[19Aug2025 22:37:50.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=79, z=0} BlockPos{x=-109, y=79, z=1}
+[19Aug2025 22:37:50.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=79, z=0} BlockPos{x=-109, y=79, z=1}
+[19Aug2025 22:37:50.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=79, z=0} BlockPos{x=-109, y=79, z=1}
+[19Aug2025 22:37:58.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-107, y=78, z=-4} BlockPos{x=-108, y=78, z=-5}
+[19Aug2025 22:39:09.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=85, z=-1} BlockPos{x=-119, y=85, z=0}
+[19Aug2025 22:39:28.596] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604402650000006E7, 67.0, -122.8100979551673] -> [-55.21932376548648, 69.57763492344141, 1.2290063650000006E7] returning empty list! this might break things
+[19Aug2025 22:39:29.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-129, y=85, z=-10} BlockPos{x=-130, y=84, z=-10}
+[19Aug2025 22:39:56.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[19Aug2025 22:39:56.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[19Aug2025 22:39:56.100] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 22:40:17.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.237.183.62:48517] logged in with entity id 71883 at (-120.85325356045553, 84.0, -21.699173414010644)
+[19Aug2025 22:40:17.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[19Aug2025 22:41:44.768] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 496 blocks, out of 327680000 allowed
+[19Aug2025 22:42:37.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=86, z=-23} BlockPos{x=-72, y=84, z=-26}
+[19Aug2025 22:42:37.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=86, z=-22} BlockPos{x=-70, y=85, z=-23}
+[19Aug2025 22:42:37.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=86, z=-22} BlockPos{x=-70, y=85, z=-23}
+[19Aug2025 22:42:37.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=86, z=-22} BlockPos{x=-70, y=85, z=-23}
+[19Aug2025 22:42:37.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=86, z=-22} BlockPos{x=-70, y=85, z=-23}
+[19Aug2025 22:42:37.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=86, z=-22} BlockPos{x=-70, y=85, z=-23}
+[19Aug2025 22:42:37.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=86, z=-22} BlockPos{x=-70, y=85, z=-23}
+[19Aug2025 22:43:18.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Timed out
+[19Aug2025 22:43:18.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[19Aug2025 22:44:04.501] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@744f0056[id=<null>,name=lol,properties={},legacy=false] (/127.237.183.62:38695): Took too long to log in
+[19Aug2025 22:44:04.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@744f0056[id=<null>,name=lol,properties={},legacy=false] (/127.237.183.62:38695) lost connection: Took too long to log in
+[19Aug2025 22:44:04.545] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 22:44:18.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.237.183.62:55811] logged in with entity id 73814 at (-64.80794481377568, 86.0, -20.571486204795455)
+[19Aug2025 22:44:18.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[19Aug2025 22:44:56.593] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 67.27553574771555, -122.80103297531605] -> [-54.20936706289649, 75.30000001192093, 1.2290055650000006E7] returning empty list! this might break things
+[19Aug2025 22:45:19.445] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 75.0, -122.870310831815] -> [-54.146737307310104, 82.84526572312234, 1.2290055650000006E7] returning empty list! this might break things
+[19Aug2025 22:45:24.492] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 74.32743437422099, -122.83428370207548] -> [-54.17930717393756, 76.12743432653727, 1.2290055650000006E7] returning empty list! this might break things
+[19Aug2025 22:45:29.494] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600312650000006E7, 67.00000750505492, -122.7763551902026] -> [-54.26997818797827, 75.30000001192093, 1.2290055650000006E7] returning empty list! this might break things
+[19Aug2025 22:47:27.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=84, z=20} BlockPos{x=-96, y=83, z=20}
+[19Aug2025 22:47:27.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=84, z=20} BlockPos{x=-96, y=83, z=20}
+[19Aug2025 22:48:04.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=85, z=27} BlockPos{x=-87, y=86, z=27}
+[19Aug2025 22:48:04.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=85, z=27} BlockPos{x=-87, y=86, z=27}
+[19Aug2025 22:48:04.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=85, z=27} BlockPos{x=-87, y=86, z=27}
+[19Aug2025 22:48:04.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=85, z=27} BlockPos{x=-87, y=86, z=27}
+[19Aug2025 22:48:04.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=85, z=27} BlockPos{x=-87, y=86, z=27}
+[19Aug2025 22:48:05.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=85, z=27} BlockPos{x=-87, y=86, z=27}
+[19Aug2025 22:48:05.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=85, z=27} BlockPos{x=-87, y=86, z=27}
