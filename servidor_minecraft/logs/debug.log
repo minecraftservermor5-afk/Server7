@@ -8485,3 +8485,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Aug2025 01:44:12.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [19Aug2025 01:44:12.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [19Aug2025 01:47:31.815] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8616704625E7, 66.22230512788258, -126.8234372138977] -> [-99.53792749717832, 100.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[19Aug2025 01:49:12.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 01:49:12.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 01:52:22.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> 2140
+[19Aug2025 01:54:12.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 01:54:12.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 01:58:06.860] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768126
+[19Aug2025 01:58:09.460] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768125
+[19Aug2025 01:58:10.216] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768127
+[19Aug2025 01:59:12.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 01:59:12.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 01:59:13.511] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768127
+[19Aug2025 01:59:15.062] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768126
+[19Aug2025 01:59:15.362] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768125
+[19Aug2025 02:03:05.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=64, z=-161} BlockPos{x=-68, y=62, z=-162}
+[19Aug2025 02:03:11.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=64, z=-163} BlockPos{x=-61, y=62, z=-162}
+[19Aug2025 02:04:12.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 02:04:12.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 02:04:13.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-59, y=65, z=-150} BlockPos{x=-57, y=63, z=-151}
+[19Aug2025 02:04:13.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-59, y=65, z=-150} BlockPos{x=-57, y=63, z=-151}
+[19Aug2025 02:04:13.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-59, y=65, z=-150} BlockPos{x=-57, y=63, z=-151}
+[19Aug2025 02:09:12.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 02:09:12.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 02:09:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> 775
+[19Aug2025 02:11:04.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=86, z=-40} BlockPos{x=-69, y=84, z=-40}
+[19Aug2025 02:14:12.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 02:14:12.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 02:17:03.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=69, z=-28} BlockPos{x=-25, y=68, z=-28}
+[19Aug2025 02:19:12.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 02:19:12.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 02:22:15.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=66, z=-17} BlockPos{x=7, y=66, z=-22}
+[19Aug2025 02:22:15.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=66, z=-22} BlockPos{x=7, y=65, z=-22}
+[19Aug2025 02:24:12.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 02:24:12.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 02:27:12.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=86, z=-18} BlockPos{x=-54, y=86, z=-13}
+[19Aug2025 02:27:12.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=86, z=-18} BlockPos{x=-54, y=86, z=-13}
+[19Aug2025 02:29:12.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 02:29:12.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[19Aug2025 02:29:17.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=88, z=-9} BlockPos{x=-50, y=86, z=-9}
+[19Aug2025 02:30:43.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> 480
+[19Aug2025 02:32:21.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=66, z=-91} BlockPos{x=-150, y=65, z=-91}
+[19Aug2025 02:32:21.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=66, z=-94} BlockPos{x=-151, y=65, z=-95}
+[19Aug2025 02:34:12.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[19Aug2025 02:34:12.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
