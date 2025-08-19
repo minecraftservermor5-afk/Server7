@@ -431,3 +431,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Aug2025 01:36:34.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
 [19Aug2025 01:38:10.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.189.196.115:42561] logged in with entity id 14870 at (669.5, 86.0, 277.5)
 [19Aug2025 01:38:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[19Aug2025 01:47:31.815] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8616704625E7, 66.22230512788258, -126.8234372138977] -> [-99.53792749717832, 100.17499999701977, 1.2290048625E7] returning empty list! this might break things
