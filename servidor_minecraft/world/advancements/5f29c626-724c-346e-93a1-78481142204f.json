@@ -17,6 +17,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-20 01:23:50 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-08-20 00:25:15 +0000"
@@ -43,6 +49,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "woodworker": "2025-08-20 01:35:00 +0000",
       "farmer": "2025-08-20 00:36:50 +0000"
     },
     "done": false
@@ -116,6 +123,12 @@
       "minecraft:plains": "2025-08-20 00:33:06 +0000"
     },
     "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-20 01:23:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
