@@ -17,3 +17,19 @@
 [20Aug2025 00:17:55.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=75, z=-82} BlockPos{x=-89, y=75, z=-83}
 [20Aug2025 00:17:56.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=77, z=-84} BlockPos{x=-87, y=76, z=-83}
 [20Aug2025 00:18:54.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=64, z=-135} BlockPos{x=-151, y=63, z=-135}
+[20Aug2025 00:20:33.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=64, z=-44} BlockPos{x=-188, y=63, z=-45}
+[20Aug2025 00:22:18.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=70, z=-36} BlockPos{x=-166, y=69, z=-36}
+[20Aug2025 00:22:37.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=67, z=-31} BlockPos{x=-178, y=65, z=-31}
+[20Aug2025 00:22:38.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=65, z=-31} BlockPos{x=-182, y=63, z=-31}
+[20Aug2025 00:22:39.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=65, z=-32} BlockPos{x=-184, y=63, z=-31}
+[20Aug2025 00:23:02.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=66, z=-38} BlockPos{x=-181, y=65, z=-39}
+[20Aug2025 00:23:02.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=66, z=-38} BlockPos{x=-181, y=65, z=-39}
+[20Aug2025 00:23:02.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=66, z=-38} BlockPos{x=-181, y=65, z=-39}
+[20Aug2025 00:25:15.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luquita23[/127.217.190.61:43227] logged in with entity id 146146 at (3.5, 66.0, 9.5)
+[20Aug2025 00:25:15.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luquita23 joined the game
+[20Aug2025 00:25:15.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luquita23 has made the advancement [Welcome To Jurassic Additions]
+[20Aug2025 00:25:59.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> [name:"base", x:638, y:86, z:287, dim:minecraft:overworld]
+[20Aug2025 00:28:55.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Timed out
+[20Aug2025 00:28:55.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[20Aug2025 00:29:21.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.212.25.2:37505] logged in with entity id 148240 at (-25.891154236485246, 75.0, 6.568899554530896)
+[20Aug2025 00:29:21.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
